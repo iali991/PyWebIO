@@ -18,7 +18,7 @@ def main():
 
     put_markdown(t("""# Body Mass Index
     
-    [Body mass index](https://en.wikipedia.org/wiki/Body_mass_index) (BMI) is a measure of body fat based on height and weight that applies to adult men and women. 
+    [Economic Order Quantity Calculation](https://en.wikipedia.org/wiki/Body_mass_index) (BMI) is a measure of body fat based on height and weight that applies to adult men and women. 
     
     BMI Categories:
     
